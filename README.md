@@ -36,7 +36,6 @@ class Programmer
   <img align="center" alt="JhonB-DEVLP-MYSQL" height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />       
    </div>
   <p></p>
-      ![Snake animation](https://github.com/JhonB-DEVLP/JhonB-DEVLP/blob/output/github-contribution-grid-snake.svg)
 <div> 
 <br>
 <div align="center">
@@ -46,7 +45,7 @@ class Programmer
 
 
 </div>
-
+      ![Snake animation](https://github.com/JhonB-DEVLP/JhonB-DEVLP/blob/output/github-contribution-grid-snake.svg)
 ```ruby
   end
 end
