@@ -3,7 +3,6 @@
 ```css
 Desenvolvedor Full Stack Jr
 ```
-![Snake animation](https://github.com/JhonB-DEVLP/JhonB-DEVLP/blob/output/github-contribution-grid-snake.svg)
 
 <p>Sou um estudante entusiasmado pelo universo da programação. Curso Sistemas para Internet na UNICAP e Engenharia de Software na Unifatecie. Sou um desenvolvedor em formação, mas com habilidades sólidas em HTML5, CSS3, JavaScript, Java, Python e versionamento por Git e GitHub. Acredito que o aprendizado contínuo é fundamental em um campo dinâmico como a tecnologia, adoro ser comunicativo com todos ao meu redor e principalmente quando o assunto é conversar sobre as infinitas possibilidades que existem nesse mundo dos códigos. Aqui, estou registrando uma parte do meu processo de aprendizagem no dia a dia. </p><br/>
 
@@ -23,6 +22,7 @@ class Programmer
   <img src="https://i.redd.it/4w6jlp7qlkb91.gif" width="50%">
   </div>
 <hr>
+    ![Snake animation](https://github.com/JhonB-DEVLP/JhonB-DEVLP/blob/output/github-contribution-grid-snake.svg)
   <p></p>
 <h3 align="left">Languages and Tools:</h3>
   <div>
@@ -42,6 +42,8 @@ class Programmer
   <a href="https://github.com/JhonB-DEVLP">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonB-DEVLP&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonB-DEVLP&layout=compact&langs_count=7&theme=radical"/>
+
+
 </div>
 
 ```ruby
