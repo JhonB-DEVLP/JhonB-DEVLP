@@ -41,7 +41,6 @@ class Programmer
 <div align="center">
   <a href="https://github.com/JhonB-DEVLP">
     <a href="https://platane.github.io/snk">
-  <img height="300px" src="https://user-images.githubusercontent.com/1659820/121798244-7c86d700-cc25-11eb-8c1c-b8e65556ac0d.gif" ></img>
 </a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonB-DEVLP&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonB-DEVLP&layout=compact&langs_count=7&theme=radical"/>
