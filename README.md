@@ -22,7 +22,7 @@ class Programmer
   <img src="https://i.redd.it/4w6jlp7qlkb91.gif" width="50%">
   </div>
 <hr>
-    ![Snake animation](https://github.com/JhonB-DEVLP/JhonB-DEVLP/blob/output/github-contribution-grid-snake.svg)
+
   <p></p>
 <h3 align="left">Languages and Tools:</h3>
   <div>
@@ -36,6 +36,7 @@ class Programmer
   <img align="center" alt="JhonB-DEVLP-MYSQL" height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />       
    </div>
   <p></p>
+      ![Snake animation](https://github.com/JhonB-DEVLP/JhonB-DEVLP/blob/output/github-contribution-grid-snake.svg)
 <div> 
 <br>
 <div align="center">
