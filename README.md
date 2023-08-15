@@ -19,7 +19,7 @@ class Programmer
 </div>
 <br>
  <div align="center"> 
-  <img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F4w6jlp7qlkb91.gif" width="50%">
+  <img src="https://i.redd.it/4w6jlp7qlkb91.gif" width="50%">
   </div>
 <hr>
   <p></p>
