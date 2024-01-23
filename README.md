@@ -21,7 +21,7 @@ class Programmer
 </div>
 <br>
  <div align="center"> 
-  <img src="https://i.redd.it/6nd1vmirw0q01.gif" width="50%">
+  <img src= "https://i.redd.it/6nd1vmirw0q01.gif" width="50%">
   </div>
 <hr>
 
