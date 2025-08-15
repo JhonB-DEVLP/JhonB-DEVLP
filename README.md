@@ -3,10 +3,11 @@
 <h1>Jhones Bonifácio</h1>
 
 ```css
-Desenvolvedor Full Stack Jr
+Desenvolvedor Full Stack Jr e futuro Pentester
 ```
 
-<p>Sou um estudante entusiasmado pelo universo da programação. Curso Sistemas para Internet na UNICAP e Engenharia de Software na Unifatecie. Sou um desenvolvedor em formação, mas com habilidades sólidas em HTML5, CSS3, JavaScript, Java, Python e versionamento por Git e GitHub. Acredito que o aprendizado contínuo é fundamental em um campo dinâmico como a tecnologia, adoro ser comunicativo com todos ao meu redor e principalmente quando o assunto é conversar sobre as infinitas possibilidades que existem nesse mundo dos códigos. Aqui, estou registrando uma parte do meu processo de aprendizagem no dia a dia. </p><br/>
+<p>Echo "Hello world !"
+Sou um estudante entusiasmado pelo universo de cybersegurança e programação. Eu estou me formando em sistemas para internet na UNICAP, oportunidade oferecida pelo programa embarque digital. Sou um pentester em formação com habilidades em redes, MySQL, linux, python e bashScript. Além disso também sou um programador com habilidades sólidas em HTML5, CSS3, JavaScript, React e versionamento por Git e GitHub. Acredito que o aprendizado contínuo é fundamental em um campo dinâmico como a tecnologia, adoro ser comunicativo com todos ao meu redor e principalmente quando o assunto é conversar sobre as infinitas possibilidades que existem nesse mundo dos códigos. Sempre procuro desenvolver ferramentas e projetos pessoais para aprimorar minhas habilidades. Atualmente comprometido em aprender e futuramente trabalhar como pentester. </p><br/>
 
 ```ruby
 class Programmer
